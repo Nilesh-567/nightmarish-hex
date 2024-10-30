@@ -12,3 +12,7 @@ body {
   text-rendering: optimizeLegibility;
   hyphens: auto;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
